@@ -1,0 +1,31 @@
+.container{
+ background:url(../../Downloads/Ad.png);
+ height: 100vh;
+ background-size: 100% 100%;
+
+}
+
+.nabar ul{
+    float:right;
+    margin-right: 250px;
+}
+
+.nabar ul li{
+    list-style: none;
+    display:inline-block;
+    margin: 4 10px;
+    line-height: 530px;
+}
+
+.nabar ul li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 30px 20px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.nabar ul li a:hover{
+    background: rgb(71, 1, 1);
+}
